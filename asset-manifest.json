@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/PatidarFoodsHost-Prod/static/css/main.b137b16d.chunk.css",
-    "main.js": "/PatidarFoodsHost-Prod/static/js/main.1f9f93d4.chunk.js",
-    "main.js.map": "/PatidarFoodsHost-Prod/static/js/main.1f9f93d4.chunk.js.map",
+    "main.js": "/PatidarFoodsHost-Prod/static/js/main.4742621a.chunk.js",
+    "main.js.map": "/PatidarFoodsHost-Prod/static/js/main.4742621a.chunk.js.map",
     "runtime-main.js": "/PatidarFoodsHost-Prod/static/js/runtime-main.9f863d4c.js",
     "runtime-main.js.map": "/PatidarFoodsHost-Prod/static/js/runtime-main.9f863d4c.js.map",
     "static/css/2.8cbc89cc.chunk.css": "/PatidarFoodsHost-Prod/static/css/2.8cbc89cc.chunk.css",
-    "static/js/2.933b19cc.chunk.js": "/PatidarFoodsHost-Prod/static/js/2.933b19cc.chunk.js",
-    "static/js/2.933b19cc.chunk.js.map": "/PatidarFoodsHost-Prod/static/js/2.933b19cc.chunk.js.map",
+    "static/js/2.e20802bf.chunk.js": "/PatidarFoodsHost-Prod/static/js/2.e20802bf.chunk.js",
+    "static/js/2.e20802bf.chunk.js.map": "/PatidarFoodsHost-Prod/static/js/2.e20802bf.chunk.js.map",
     "static/js/3.60ce44ca.chunk.js": "/PatidarFoodsHost-Prod/static/js/3.60ce44ca.chunk.js",
     "static/js/3.60ce44ca.chunk.js.map": "/PatidarFoodsHost-Prod/static/js/3.60ce44ca.chunk.js.map",
     "index.html": "/PatidarFoodsHost-Prod/index.html",
     "static/css/2.8cbc89cc.chunk.css.map": "/PatidarFoodsHost-Prod/static/css/2.8cbc89cc.chunk.css.map",
     "static/css/main.b137b16d.chunk.css.map": "/PatidarFoodsHost-Prod/static/css/main.b137b16d.chunk.css.map",
-    "static/js/2.933b19cc.chunk.js.LICENSE.txt": "/PatidarFoodsHost-Prod/static/js/2.933b19cc.chunk.js.LICENSE.txt",
+    "static/js/2.e20802bf.chunk.js.LICENSE.txt": "/PatidarFoodsHost-Prod/static/js/2.e20802bf.chunk.js.LICENSE.txt",
     "static/media/index.css": "/PatidarFoodsHost-Prod/static/media/DP1.8c0bbc88.jpg",
     "static/media/Drink.ca395285.jpg": "/PatidarFoodsHost-Prod/static/media/Drink.ca395285.jpg",
     "static/media/KachoriChaat.d2207a33.jpg": "/PatidarFoodsHost-Prod/static/media/KachoriChaat.d2207a33.jpg",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.9f863d4c.js",
     "static/css/2.8cbc89cc.chunk.css",
-    "static/js/2.933b19cc.chunk.js",
+    "static/js/2.e20802bf.chunk.js",
     "static/css/main.b137b16d.chunk.css",
-    "static/js/main.1f9f93d4.chunk.js"
+    "static/js/main.4742621a.chunk.js"
   ]
 }
