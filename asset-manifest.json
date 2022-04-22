@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/PatidarFoods-Test/static/css/main.b196e5ab.chunk.css",
-    "main.js": "/PatidarFoods-Test/static/js/main.a677dfd1.chunk.js",
-    "main.js.map": "/PatidarFoods-Test/static/js/main.a677dfd1.chunk.js.map",
+    "main.js": "/PatidarFoods-Test/static/js/main.c10de35a.chunk.js",
+    "main.js.map": "/PatidarFoods-Test/static/js/main.c10de35a.chunk.js.map",
     "runtime-main.js": "/PatidarFoods-Test/static/js/runtime-main.54d015dd.js",
     "runtime-main.js.map": "/PatidarFoods-Test/static/js/runtime-main.54d015dd.js.map",
     "static/css/2.f05ef556.chunk.css": "/PatidarFoods-Test/static/css/2.f05ef556.chunk.css",
-    "static/js/2.e522830c.chunk.js": "/PatidarFoods-Test/static/js/2.e522830c.chunk.js",
-    "static/js/2.e522830c.chunk.js.map": "/PatidarFoods-Test/static/js/2.e522830c.chunk.js.map",
+    "static/js/2.bd70c500.chunk.js": "/PatidarFoods-Test/static/js/2.bd70c500.chunk.js",
+    "static/js/2.bd70c500.chunk.js.map": "/PatidarFoods-Test/static/js/2.bd70c500.chunk.js.map",
     "static/js/3.60ce44ca.chunk.js": "/PatidarFoods-Test/static/js/3.60ce44ca.chunk.js",
     "static/js/3.60ce44ca.chunk.js.map": "/PatidarFoods-Test/static/js/3.60ce44ca.chunk.js.map",
     "index.html": "/PatidarFoods-Test/index.html",
     "static/css/2.f05ef556.chunk.css.map": "/PatidarFoods-Test/static/css/2.f05ef556.chunk.css.map",
     "static/css/main.b196e5ab.chunk.css.map": "/PatidarFoods-Test/static/css/main.b196e5ab.chunk.css.map",
-    "static/js/2.e522830c.chunk.js.LICENSE.txt": "/PatidarFoods-Test/static/js/2.e522830c.chunk.js.LICENSE.txt",
+    "static/js/2.bd70c500.chunk.js.LICENSE.txt": "/PatidarFoods-Test/static/js/2.bd70c500.chunk.js.LICENSE.txt",
     "static/media/index.css": "/PatidarFoods-Test/static/media/DP1.8c0bbc88.jpg",
     "static/media/Drink.ca395285.jpg": "/PatidarFoods-Test/static/media/Drink.ca395285.jpg",
     "static/media/KachoriChaat.d2207a33.jpg": "/PatidarFoods-Test/static/media/KachoriChaat.d2207a33.jpg",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.54d015dd.js",
     "static/css/2.f05ef556.chunk.css",
-    "static/js/2.e522830c.chunk.js",
+    "static/js/2.bd70c500.chunk.js",
     "static/css/main.b196e5ab.chunk.css",
-    "static/js/main.a677dfd1.chunk.js"
+    "static/js/main.c10de35a.chunk.js"
   ]
 }
