@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PatidarFoods-Test/static/css/main.b196e5ab.chunk.css",
-    "main.js": "/PatidarFoods-Test/static/js/main.ca6524b4.chunk.js",
-    "main.js.map": "/PatidarFoods-Test/static/js/main.ca6524b4.chunk.js.map",
+    "main.js": "/PatidarFoods-Test/static/js/main.f7323064.chunk.js",
+    "main.js.map": "/PatidarFoods-Test/static/js/main.f7323064.chunk.js.map",
     "runtime-main.js": "/PatidarFoods-Test/static/js/runtime-main.787e2384.js",
     "runtime-main.js.map": "/PatidarFoods-Test/static/js/runtime-main.787e2384.js.map",
     "static/css/2.f05ef556.chunk.css": "/PatidarFoods-Test/static/css/2.f05ef556.chunk.css",
@@ -34,6 +34,6 @@
     "static/css/2.f05ef556.chunk.css",
     "static/js/2.07e16de9.chunk.js",
     "static/css/main.b196e5ab.chunk.css",
-    "static/js/main.ca6524b4.chunk.js"
+    "static/js/main.f7323064.chunk.js"
   ]
 }
